@@ -6,6 +6,9 @@
 </head>
 
 <body>
+	<?php
+    echo"<H1>Trần Hữu Lộc - DH52201004 - D22_TH07</H1>";
+	?>
 <form action="" method="post">
 	<label for="">Tính tổng các chữ số có trong một chuỗi</label><br>
 	<input type="text" placeholder="Nhập chuỗi"  name="ten" value="">

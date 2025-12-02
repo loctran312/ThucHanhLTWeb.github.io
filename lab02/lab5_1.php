@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
+    <?php
+    echo"<H1>Trần Hữu Lộc - DH52201004 - D22_TH07</H1>";
+    ?>
     <form>
         nhap a: <input type="number" name="a"> <br>
         nhap b: <input type="number" name="b"> <br>

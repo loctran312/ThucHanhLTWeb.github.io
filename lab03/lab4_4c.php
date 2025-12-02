@@ -33,6 +33,7 @@
 
 <body>
     <?php
+        echo"<H1>Trần Hữu Lộc - DH52201004 - D22_TH07</H1>";
     /*
 bảng cửu chương $n, màu nền $color
 - Input: $n là một số nguyên dương (1->10)

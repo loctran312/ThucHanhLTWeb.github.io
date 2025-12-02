@@ -7,6 +7,7 @@
 
 <body>
 <?php
+    echo"<H1>Trần Hữu Lộc - DH52201004 - D22_TH07</H1>";
 	//Tính biểu thức S=1 + 2 + 3 + ... + 100
 	// Sử dụng FOR
 	$s1=0;

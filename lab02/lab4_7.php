@@ -7,6 +7,7 @@
 
 <body>
 <?php
+    echo"<H1>Trần Hữu Lộc - DH52201004 - D22_TH07</H1>";
 	include("lab2_5a.php");
 	include("lab2_5b.php");
     include_once("lab2_5b.php");

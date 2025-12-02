@@ -7,6 +7,7 @@
 
 <body>
 <?php
+    echo"<H1>Trần Hữu Lộc - DH52201004 - D22_TH07</H1>";
 $a=1;
 $kq=0;
 function f()

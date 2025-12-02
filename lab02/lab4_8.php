@@ -7,6 +7,7 @@
 
 <body>
 <?php
+    echo"<H1>Trần Hữu Lộc - DH52201004 - D22_TH07</H1>";
 	require("lab2_5a.php");
 	require("lab2_5b.php");
     require("lab2_5b.php");
