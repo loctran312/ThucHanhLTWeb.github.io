@@ -1,4 +1,5 @@
 <?php
+    echo"<H1>Trần Hữu Lộc - DH52201004 - D22_TH07</H1>";
     $url = "http://thethao.vnexpress.net/";
     $content = file_get_contents($url);
     if ($content !== false) {

@@ -1,4 +1,5 @@
 <?php
+echo"<H1>Trần Hữu Lộc - DH52201004 - D22_TH07</H1>";
 // Hàm postIndex dùng để lấy dữ liệu từ form POST
 function postIndex($index, $value = "")
 {
