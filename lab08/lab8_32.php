@@ -1,4 +1,5 @@
 <?php
+echo"<H1>Trần Hữu Lộc - DH52201004 - D22_TH07</H1>";
 $pdh = new PDO("mysql:host=localhost;dbname=bookstore","root","");
 $pdh->query("set names 'utf8'");
 
@@ -49,3 +50,4 @@ if (isset($_GET["cat_id"])) {
     // Sau khi bấm OK, chuyển hướng về trang danh sách loại sách
     window.location = "lab8_3.php";
 </script>
+
