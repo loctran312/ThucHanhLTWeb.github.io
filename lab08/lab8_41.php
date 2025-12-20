@@ -23,6 +23,7 @@
             </table>
         </form>
     <?php
+echo"<H1>Trần Hữu Lộc - DH52201004 - D22_TH07</H1>";
     // ------------------- KẾT NỐI CSDL -------------------
     try {
         // Tạo đối tượng PDO kết nối đến database 'bookstore' với user 'root'
@@ -72,3 +73,4 @@
 </body>
 
 </html>
+
